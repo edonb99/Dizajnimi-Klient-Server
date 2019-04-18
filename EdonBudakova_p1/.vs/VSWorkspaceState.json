@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Protokolli FIEK",
+    "\\Protokolli FIEK\\FIEK-TCP Klienti",
+    "\\Protokolli FIEK\\FIEK-TCP Klienti\\FIEK-TCP Klienti",
+    "\\Protokolli FIEK\\FIEK-TCP Serveri",
+    "\\Protokolli FIEK\\FIEK-TCP Serveri\\FIEK-TCP Serveri",
+    "\\Protokolli FIEK\\FIEK-UDP Klienti",
+    "\\Protokolli FIEK\\FIEK-UDP Klienti\\FIEK-UDP Klienti",
+    "\\Protokolli FIEK\\FIEK-UDP Serveri",
+    "\\Protokolli FIEK\\FIEK-UDP Serveri\\FIEK-UDP Serveri"
+  ],
+  "SelectedNode": "\\Protokolli FIEK\\FIEK-UDP Klienti\\FIEK-UDP Klienti\\FIEK_UDP_Klienti.py",
+  "PreviewInSolutionExplorer": false
+}

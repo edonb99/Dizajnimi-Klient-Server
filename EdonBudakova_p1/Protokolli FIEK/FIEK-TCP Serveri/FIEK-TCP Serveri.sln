@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FIEK-TCP Serveri", "FIEK-TCP Serveri\FIEK-TCP Serveri.pyproj", "{15FFCDCE-0FB0-41BA-B9D8-B7623ABB3490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FFCDCE-0FB0-41BA-B9D8-B7623ABB3490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FFCDCE-0FB0-41BA-B9D8-B7623ABB3490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE99AA32-766D-4203-949F-4F82B370673B}
+	EndGlobalSection
+EndGlobal
